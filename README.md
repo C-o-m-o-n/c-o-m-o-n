@@ -1,4 +1,12 @@
 <h1 align="center">Hi 👋, I'm Collins Omondi</h1>
+
+
+          
+              
+    
+
+          
+        
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c-o-m-o-n&label=Profile%20views&color=0e75b6&style=flat" alt="c-o-m-o-n" /> </p>
@@ -19,7 +27,7 @@
 
 - 📫 How to reach me **comon928@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/s/ze5ivzhxvo2hgin/Collins-Odhiambo.pdf?dl=0](https://www.dropbox.com/s/ze5ivzhxvo2hgin/Collins-Odhiambo.pdf?dl=0)
+- 📄 Know about my experiences [https://portfolio-c-o-m-o-n.vercel.app/](https://portfolio-c-o-m-o-n.vercel.app/)
 
 - ⚡ Fun fact **i like my hair**
 
